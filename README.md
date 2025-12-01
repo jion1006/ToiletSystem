@@ -1,6 +1,10 @@
 # ToiletSystem
 
-Firebase를 통한 데이터 받기 이후 처음 받은 값을 토대로 기준점을 잡아 초과시에 스마트폰 진동과 자동 환풍기 실행 구현, 일정 시간 지나도 초과 유지될시에 자동 물내림 구현
+<img width="398" height="575" alt="image" src="https://github.com/user-attachments/assets/a4865e5e-2fc3-4dbe-a251-80cf74eeac53" />
+
+
+Firebase를 통한 데이터 받기 이후 처음 받은 값을 토대로 기준점을 잡아 초과시에 스마트폰 진동과 자동 환풍기 실행 구현,
+일정 시간 지나도 초과 유지될시에 자동 물내림 구현
 <img width="1278" height="637" alt="image" src="https://github.com/user-attachments/assets/06baed28-ac7c-445d-a296-3a0748d223dd" />
 
 
