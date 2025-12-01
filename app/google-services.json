@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "461223586568",
+    "firebase_url": "https://toilet-74f57-default-rtdb.firebaseio.com",
+    "project_id": "toilet-74f57",
+    "storage_bucket": "toilet-74f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461223586568:android:70d4093c5e15d2652bdabd",
+        "android_client_info": {
+          "package_name": "com.example.toilet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClu0_kYCO_1IOsPXSXlaoo59VYrwcXj24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
