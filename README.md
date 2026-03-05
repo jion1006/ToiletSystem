@@ -10,7 +10,7 @@ Firebase를 통한 데이터 받기 이후 처음 받은 값을 토대로 기준
 
 
 라즈베리 파이 코드
-
+/toggle
 ![코딩1](https://github.com/user-attachments/assets/ce330a4b-3e4f-4127-bda1-221dd852d099)
 ![코딩2](https://github.com/user-attachments/assets/f9ea96bc-e0e6-4b8f-a30a-1ebd25acb981)
 ![코딩3](https://github.com/user-attachments/assets/962c5d06-31a6-4e71-970a-f96f7d2167b0)
